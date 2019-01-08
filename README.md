@@ -11,8 +11,8 @@
 
 ## 
 
-<pre>
-<a href="http://www.typingbolt.com" title="Great typing test website">Typing Bolt Official Site</a>
-   </pre>
+
+> <a href="http://www.typingbolt.com" title="Great typing test website">Typing Bolt Official Site</a>
+
 ## Having trouble ? 
 ##### Just raise a issue by visiting the issue tab and submitting your issue.
