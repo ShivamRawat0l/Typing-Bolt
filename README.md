@@ -1,6 +1,6 @@
 # What is Typing Bolt ? :smiley:
 #### Typing bolt is website in which you can test your typing speed.I saw that the maximum score was too high for my 40WPM. So using this script I can eaily reach above 100WPM.</h4>
-<pre>
+
 ## How to use this 
 ##### The simplest way is to 
 - Install GIT
@@ -8,8 +8,10 @@
 - Open the terminal in the folder 
 - Type : python type.py 
 - For linux use : python typelinux.py
-</pre>
+
 ## 
 
+
+   [Typing Bolt Official Site](www.typingbolt.com "Great typing test website").
 ## Having trouble ? 
 ##### Just raise a issue by visiting the issue tab and submitting your issue.
