@@ -11,7 +11,8 @@
 
 ## 
 
-
-   [Typing Bolt Official Site](www.typingbolt.com "Great typing test website").
+<pre>
+<a href="http://www.typingbolt.com" title="Great typing test website">Typing Bolt Official Site</a>
+   </pre>
 ## Having trouble ? 
 ##### Just raise a issue by visiting the issue tab and submitting your issue.
