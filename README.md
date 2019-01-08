@@ -2,10 +2,18 @@
 ### **Typing bolt is website in which you can test your typing speed.I saw that the maximum score was too high for my 40WPM. So using this script I can eaily reach above 100WPM.**
 
 ## How to use this 
-##### The simplest way is to 
+> #### One way is to 
 - Install GIT
 - In CMD type  : git clone https://github.com/ShivamRawat0l/Typing-Bolt.git
 - Open the terminal in the folder 
+- Run http://www.typingbolt.com in chrome
+- Type : python type.py 
+- For linux use : python typelinux.py
+
+> #### Other way is to 
+- Download the files using the browser
+- Open the terminal in the folder 
+- Run http://www.typingbolt.com in chrome
 - Type : python type.py 
 - For linux use : python typelinux.py
 
